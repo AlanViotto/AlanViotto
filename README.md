@@ -9,12 +9,6 @@
 ###
 ###
 <div align="center">
-  <img src="https://github.com/AlanViotto/AlanViotto/blob/output/github-contribution-grid-snake.gif"/>
-</div>
-
-###
-###
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
